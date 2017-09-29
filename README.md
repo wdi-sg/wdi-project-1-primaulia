@@ -35,17 +35,7 @@ The player that has the lower price difference, either higher or lower from the 
 And the game will restart with a new item (at this point I think I would just use preset items first.)
 
 
-
-
-
-
-
-
-
-
-
-
-
+![Flowchart](https://www.lucidchart.com/publicSegments/view/e82f8629-795a-43fe-b5ef-3d832464ed3f/image.jpeg)
 
 
 
@@ -63,3 +53,7 @@ Additional stuff that is really extra
  4. Code snippet for the custom logic part.
  5. Mini Journal - to show progress
  5. References
+
+
+ ### Links
+In progress: [Flowchart](https://www.lucidchart.com/documents/view/62c11fc6-3e69-4b2e-97be-ce66f73d84a1)
